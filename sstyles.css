@@ -1,0 +1,19 @@
+body{ 
+    background-color: #eee;
+}
+#title{ 
+    text-align: center;
+}
+#image{ 
+    display:block;
+    max-width:100%;
+    height:auto;
+    margin: 0 auto;
+}
+#img-caption{ 
+    display:block;
+    text-align:center;
+}
+#tribute-link, #tribute-info{ 
+    text-align: center;
+}
